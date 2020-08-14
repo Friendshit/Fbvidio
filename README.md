@@ -6,3 +6,6 @@ Fr13ndS!T - XerXez7 ( donload vidio fb )
 pkg update && upgrade
 pkg install python php git curl
 pip2 install curl
+git clone https://github.com/Friendshit/Fbvidio/
+
+Jalankan {}
